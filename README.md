@@ -6,9 +6,10 @@ Dataset: [./data/DataSet_2/Flickr_TextData/Flickr8k.arabic.full.txt](./data/Data
 
 Report: [here]()
 
-Result: 
+This is our 1st Model "Object recognition" deployment: 
 ![Res](https://github.com/myyla/Image-Captioning-Platform/assets/96894475/bdb0f9a3-8f01-4cb2-b7c9-d95271d91126)
-
+This is our 2nd Model "Text Generation" deployment:
+![WhatsApp Image 2023-05-21 at 15 24 15](https://github.com/myyla/Image-Captioning-Platform/assets/96894475/e2dbef77-4e14-4eb0-be2f-cf69b00194f9)
 ## Introduction
 Image Captioning refers to the art of describing the content of an image by computers. It is a well-known problem in CV and NLP. It has many applications, such as improved information retrieval, early childhood education, for visually impaired persons, for social media, and so on. Although remarkable work has been accomplished recently for English, and due to the lack of large and publicly available dataset, the progress on Arabic Image Captioning is still lagging. Therefore, we developed our own dataset. And this made it a very challanging work to accomplish.
 
