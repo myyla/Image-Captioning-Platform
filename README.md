@@ -69,11 +69,8 @@ myenv\Scripts\jupyter-notebook.exe
 then navigate to and open [Model_2.ipynb](./Model_2.ipynb))
 
 ## Deployment:
-
-This is our 1st Model "Object recognition" deployment: 
+ 
 ![Res](https://github.com/myyla/Image-Captioning-Platform/assets/96894475/bdb0f9a3-8f01-4cb2-b7c9-d95271d91126)
-This is our 2nd Model "Text Generation" deployment:
-![WhatsApp Image 2023-05-21 at 15 24 15](https://github.com/myyla/Image-Captioning-Platform/assets/96894475/e2dbef77-4e14-4eb0-be2f-cf69b00194f9)
 
 ## Contact information
 For help, issues, or personal communication related to this work, please contact us: [amaluth29@gmail.com](mailto:amaluth29@gmail.com) [ibtissam.aoulek@etu.uae.ac.ma](mailto:ibtissam.aoulek@etu.uae.ac.ma) [basma.akarmass@etu.uae.ac.ma](mailto:basma.akarmas@etu.uae.ac.ma)
